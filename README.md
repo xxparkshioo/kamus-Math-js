@@ -8,4 +8,6 @@
 6. Math.random(x) --------> mengembalikan angka acak antara 0 (inklusif), dan 1 (eksklusif)
 7. Math.abs(x) -----------> Mengembalikan nilai absolut(positif)
 8. Math.sqrt(x) -----------> untuk menghitung akar kuadrat dari sebuah angka. (16 = 4 * 4)
+
+
 dokumentasi lengkap: https://www.w3schools.com/js/js_math.asp
